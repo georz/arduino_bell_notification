@@ -1,4 +1,4 @@
 = Doorbell notification with Arduino (ATOM Lite)
 
 == Overview
-https://cdn-ak.f.st-hatena.com/images/fotolife/g/georz/20230224/20230224174451.png
+https://cdn-ak.f.st-hatena.com/images/fotolife/g/georz/20230224/20230224181552.jpg
